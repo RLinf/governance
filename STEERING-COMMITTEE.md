@@ -5,10 +5,10 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME**     | **Handle**   | **Affiliated Organization** |
 | ------------ | ------------ | --------------------------- |
-| Hao Lin      | @andylin-hao | Infinigence AI              |
-| Zhen Guo     | @guozhen1997 | Infinigence AI              |
-| Chao Yu      | @zoeyuchao   | Tsinghua University         |
-| Quanlu Zhang | @QuanluZhang | Infinigence AI              |
+| Hao Lin      | [@andylin-hao](https://github.com/andylin-hao) | Infinigence AI              |
+| Zhen Guo     | [@guozhen1997](https://github.com/guozhen1997) | Infinigence AI              |
+| Chao Yu      | [@zoeyuchao](https://github.com/zoeyuchao)   | Tsinghua University         |
+| Quanlu Zhang | [@QuanluZhang](https://github.com/QuanluZhang) | Infinigence AI              |
 
 
 ---
